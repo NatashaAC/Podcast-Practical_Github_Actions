@@ -1,5 +1,5 @@
-name: Generate Podcast Feed
-on: [push]git config
+name: Generate Podcast Feeds
+on: [push]
 jobs:
   build:
     runs-on: ubuntu-latest
